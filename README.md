@@ -1,4 +1,4 @@
-### **12️⃣ Lifestyle and Daily Use Calculators**
+### **1️⃣2️⃣ Lifestyle and Daily Use Calculators**
 
 Tools for personal finance, travel, health, cooking, home, shopping, and more.
 
